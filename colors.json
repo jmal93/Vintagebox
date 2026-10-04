@@ -1,0 +1,29 @@
+{
+    "checksum": "54da36da1d22c860d8c525a2b75353e1",
+    "wallpaper": "/home/jao/Imagens/Wallpaper/arch.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181818",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#4e744f",
+        "color2": "#a07218",
+        "color3": "#726a55",
+        "color4": "#325e60",
+        "color5": "#336366",
+        "color6": "#8b826b",
+        "color7": "#9c9191",
+        "color8": "#725d5d",
+        "color9": "#699B6A",
+        "color10": "#D69821",
+        "color11": "#998E72",
+        "color12": "#437E80",
+        "color13": "#458588",
+        "color14": "#BAAE8F",
+        "color15": "#c5c5c5"
+    }
+}
